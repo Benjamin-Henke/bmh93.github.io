@@ -1,0 +1,28 @@
+* {
+  max-width: 750px;
+  margin: auto;
+}
+
+
+body {
+  font-family: sans-serif;
+}
+
+ #header {
+  height: 25px;
+  width: 100%;
+  background-color: blue;
+}
+
+
+#footer {
+  height: 25px;
+  width: 100%;
+  background-color: blue;
+}
+
+
+h3 {
+  color: blue;
+  font-weight: bolder;
+}
