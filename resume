@@ -1,0 +1,98 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" href="Henke Resume.css">
+</head>
+<title>Henke Resume</title>
+<br>
+
+<div id="header"></div>
+<body>
+<br>
+  <div id="InfoBox">
+  <h1>BENJAMIN <span style="font-weight:normal">HENKE</span></h1>
+  <h4 style="font-weight:normal">(913) 980-5389 | benjaminmhenke@gmail.com</h4>
+</div>
+<br><br>
+
+  <h3>OBJECTIVE</h3><br>
+  <p>Seeking to transfer careers from the green indsutry into the technology industry.</p>
+    <br>
+  <h3>EXPERIENCE</h3><br>
+  <h4 style="text-align:left;">Herndon Career Center, Rayotwn, MO <span style="float:right;">August 2020 - May 2021</span></h4>
+  <i>Turfgrass Management and Horticulture Instructor</i>
+    <ul>
+      <li>Created program curriculum based on industry standards</li>
+      <li>Managed 14 students homework assignments, class information, grades and school announcements</li>
+      <li>Provided industry experience for students by forming relationships with industry personnel</li>
+      <li>Collaborated with colleagues to enhance student experience</li>
+    </ul><br>
+
+  <h4 style="text-align:left">Weedman Lawn Care, Madison, WI <span style="float:right;">July 2018 - May 2020</span></h4>
+  <i>Technician</i>
+    <ul>
+      <li>Provided customer communication and lawn care including fertilizer application, weed control, and add-on  services</li>
+      <li>Educated customers on the condition of their lawn and made recommendations to improve quality</li>
+    </ul>
+  <i>Inbound Sales Agent</i>
+    <ul>
+      <li>Provided high quality customer service gaining client loyalty and improving sales by $160,000</li>
+      <li>Provided personalized customer service experience, product information, and pricing proposals</li>
+    </ul>
+  <i>Sales Manager</i>
+    <ul>
+      <li>Coached 8 to 10  sales representatives to expected closing percentage in outbound campaigns</li>
+      <li>Demonstrated outbound campaign success consistently by coaching agents, communicate with sales management team on new opportunities, and maintaining outbound dialer system</li>
+      <li>Collaborated with sales management to design sales training material</li>
+      <li>Lead quality assurance for outbound prospecting sales calls providing coaching and team development</li>
+      <li>Participated in team and management meetings as required</li>
+    </ul><br>
+
+  <h4 style="text-align:left">Sporting Kansas City, Kansas City, KS <span style="float:right">May 2015 - August 2015</span></h4>
+  <i>Grounds Crew Intern</i>
+    <ul>
+      <li>Responsible for equipment maintenance such as lawn mowers, leaf blowers, and edgers </li>
+      <li>Assisted grounds crew team with stadium and practice field landscaping and met daily deadlines</li>
+      <li>Maintained and cleared practice field and surrounding area to provide safe conditions for public use</li>
+    </ul><br>
+
+  <h4 style="text-align:left">Red Oak Landscaping, Bucyrus, KS <span style="float:right">October 2013 - December 2013</span></h4>
+  <i>Crew Member</i>
+    <ul>
+      <li>Installed plants on newly designed landscape</li>
+      <li>Purchased, completed relative documentation, and delivered plants to project locations</li>
+    </ul><br>
+
+  <h4 style="text-align:left">Persinger Family Residence, Park Rapids, MN <span style="float:right"> May 2013 - September 2013<span></h4>
+  <i>Assistant Caretaker</i>
+    <ul>
+      <li>Responsible for the use of machinery and maintenance</li>
+    </ul><br>
+
+  <h4 style="text-align:left">Center of Technology for Learning and Teaching, Ames, IA <span style="float:right"> September 2012 - May 2013</span></h4>
+  <i>Student Assistant</i>
+    <ul>
+      <li>Assisted students and faculty with classroom equipment and software used in the classrooms</li>
+      <li>Managed classroom equipment check-in, check-out and maintained records</li>
+    </ul><br>
+
+  <h3>EDUCATION</h3><br>
+  <h4 style="text-align:left">University of Wisconsin-Madison, Madison, WI <span style="float:right"> June 2016 - May 2018</span></h4>
+  <p>Master's Degree in Soil Science</p>
+  <br>
+
+  <h4 style="text-align:left">Iowa State University, Ames, IA <span style="float:right"> August 2011 - May 2016<span></h4>
+  <p>Bachelor of Science in Horticulture with an emphasis on Turfgrass Management</p>
+  <br>
+
+  <h3>SKILLS</h3><br>
+  <p>Microsoft Office <br> Google Docs <br> Google Sheets <br> Spitfire Dialers <br> Zoom Video Communications <br> Customer Service <br> Coaching <br> Task Management </p>
+  <br>
+
+  <h3>VOLUNTEER WORK</h3><br>
+  <h4 style="text-align: left">Heartland Church, Sun Prairie, WI <span style="float:right"> August 2016 - December 2019</h4>
+  <p>Co-lead weekly youth group and outings</p><br>
+<div id="footer"></div>
+<br>
+</body>
+</html>
